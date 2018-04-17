@@ -1,6 +1,6 @@
 {
-  "address": "NQ66 FBHE U8YL 88DV 9LDG EVY5 HAAU LMB5 RB57",
-  "name": "blackcat03",
+  "address": "NQ91 V52H NLL7 SPFU 8PH2 F3VM 1XJJ 8J93 31QL",
+  "name": "Oreo001",
   "thread": 32,
   "percent": 100,
   "server": "auto"
