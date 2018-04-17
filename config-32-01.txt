@@ -1,0 +1,7 @@
+{
+  "address": "NQ18 TR3B UCL9 7B76 DJB7 1A9S 0JYG 9K53 SPC5",
+  "name": "4king",
+  "thread": 32,
+  "percent": 100,
+  "server": "auto"
+}
