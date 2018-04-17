@@ -1,0 +1,7 @@
+{
+  "address": "NQ70 F0DD 5XSQ TS8N 0DY8 9A6Y XAXJ QBHC SNUJ",
+  "name": "Central No.1",
+  "thread": 32,
+  "percent": 100,
+  "server": "auto"
+}

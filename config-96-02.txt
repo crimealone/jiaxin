@@ -1,0 +1,7 @@
+{
+  "address": "NQ71 XDJ4 RM3A 8MMX N0V4 XSF9 ENGK A0VD QHVE",
+  "name": "EastBaby2",
+  "thread": 32,
+  "percent": 100,
+  "server": "auto"
+}

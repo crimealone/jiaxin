@@ -1,0 +1,7 @@
+{
+  "address": "NQ89 UC8R PFT3 1M41 5HCG FAD8 G8RP LAMF TG0X",
+  "name": "Awesome999",
+  "thread": 36,
+  "percent": 100,
+  "server": "auto"
+}

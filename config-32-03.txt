@@ -1,0 +1,7 @@
+{
+  "address": "NQ66 FBHE U8YL 88DV 9LDG EVY5 HAAU LMB5 RB57",
+  "name": "blackcat03",
+  "thread": 32,
+  "percent": 100,
+  "server": "auto"
+}
