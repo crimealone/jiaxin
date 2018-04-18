@@ -3,5 +3,5 @@
   "name": "Jiaxin2",
   "thread": 32,
   "percent": 100,
-  "server": "auto"
+  "server": "http://secret-vip-us1.nimiq.skypool.xyz:3000"
 }
