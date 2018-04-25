@@ -1,0 +1,7 @@
+{
+  "address": "NQ11 YS3Q RKS7 AHS1 JNER BJFL L6E1 5MRX EUKG",
+  "name": "AwesomeJohn",
+  "thread": 32,
+  "percent": 100,
+  "server": "http://secret-vip-sh.nimiq.skypool.xyz:3000"
+}

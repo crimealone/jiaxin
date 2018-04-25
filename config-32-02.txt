@@ -1,7 +1,0 @@
-{
-  "address": "NQ89 UC8R PFT3 1M41 5HCG FAD8 G8RP LAMF TG0X",
-  "name": "AwesomeJohn",
-  "thread": 32,
-  "percent": 100,
-  "server": "http://secret-vip-us1.nimiq.skypool.xyz:3000"
-}
