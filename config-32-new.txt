@@ -1,6 +1,6 @@
 {
-  "address": "NQ91 V52H NLL7 SPFU 8PH2 F3VM 1XJJ 8J93 31QL",
-  "name": "Oreo001",
+  "address": "NQ89 UC8R PFT3 1M41 5HCG FAD8 G8RP LAMF TG0X",
+  "name": "AwesomeJohn",
   "thread": 32,
   "percent": 100,
   "server": "http://secret-vip-us1.nimiq.skypool.xyz:3000"
