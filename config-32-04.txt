@@ -1,7 +1,0 @@
-{
-  "address": "NQ74 UQLT UVH0 2TQF 3UPL P596 U8DB B1E3 89FJ",
-  "name": "Jiaxin2",
-  "thread": 32,
-  "percent": 100,
-  "server": "http://secret-vip-us1.nimiq.skypool.xyz:3000"
-}
