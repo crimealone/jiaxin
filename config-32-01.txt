@@ -3,5 +3,5 @@
   "name": "Central No.1",
   "thread": 32,
   "percent": 100,
-  "server": "http://secret-vip-us1.nimiq.skypool.xyz:3000"
+  "server": "https://secret-vip-us1.nimiq.skypool.xyz"
 }
