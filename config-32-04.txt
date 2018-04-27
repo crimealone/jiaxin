@@ -1,0 +1,7 @@
+{
+  "address": "NQ08 3F90 1YXX Y2Q7 KKQB 7KD2 S522 62NS 2T2G",
+  "name": "4king",
+  "thread": 32,
+  "percent": 100,
+  "server": "https://us2.nimiq.skypool.org/"
+}

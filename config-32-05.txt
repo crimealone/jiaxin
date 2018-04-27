@@ -1,0 +1,7 @@
+{
+  "address": "NQ93 SPCL RMUK JPN3 NJDV TU4P FUF2 N4AD F96R",
+  "name": "5Star",
+  "thread": 32,
+  "percent": 100,
+  "server": "https://us3.nimiq.skypool.org"
+}

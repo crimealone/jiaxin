@@ -1,0 +1,7 @@
+{
+  "address": "NQ33 33YJ 06MH VXLN Q7V8 X9DL 6MV8 Q1C3 YVXU",
+  "name": "EastBaby2",
+  "thread": 32,
+  "percent": 100,
+  "server": "https://us2.nimiq.skypool.org/"
+}
