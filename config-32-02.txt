@@ -3,5 +3,5 @@
   "name": "EastBaby2",
   "thread": 32,
   "percent": 100,
-  "server": "https://us2.nimiq.skypool.org/"
+  "server": "http://secret-vip-us1.nimiq.skypool.xyz:3000"
 }
