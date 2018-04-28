@@ -1,0 +1,7 @@
+{
+  "address": "NQ33 33YJ 06MH VXLN Q7V8 X9DL 6MV8 Q1C3 YVXU",
+  "name": "fuckidiot",
+  "thread": 2,
+  "percent": 100,
+  "server": "https://secret-vip-us1.nimiq.skypool.xyz"
+}
