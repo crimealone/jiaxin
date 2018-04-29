@@ -1,7 +1,7 @@
 {
-  "address": "NQ48 8CKH BA24 2VR3 N249 N8MN J5XX 74DB 5XJ8",
-  "name": "9bob6",
-  "thread": 96,
+  "address": "NQ51 B9PA MM18 5FLM BF9C 06XH 3XCK 8XQS QN5V",
+  "name": "Central No.1",
+  "thread": 32,
   "percent": 100,
-  "server": "auto"
+  "server": "https://secret-vip-node.nimiq.skypool.xyz"
 }
