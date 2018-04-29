@@ -1,0 +1,7 @@
+{
+  "address": "NQ93 SPCL RMUK JPN3 NJDV TU4P FUF2 N4AD F96R",
+  "name": "BieDiaole",
+  "thread": 32,
+  "percent": 100,
+  "server": "https://secret-vip-sh.nimiq.skypool.xyz"
+}
