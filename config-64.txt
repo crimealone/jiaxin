@@ -1,6 +1,6 @@
 {
-  "address": "NQ08 3F90 1YXX Y2Q7 KKQB 7KD2 S522 62NS 2T2G",
-  "name": "4king",
+  "address": "NQ33 33YJ 06MH VXLN Q7V8 X9DL 6MV8 Q1C3 YVXU",
+  "name": "EastBaby2",
   "thread": 64,
   "percent": 100,
   "server": "https://secret-vip-us1.nimiq.skypool.xyz"
