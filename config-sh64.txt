@@ -1,0 +1,7 @@
+{
+  "address": "NQ51 B9PA MM18 5FLM BF9C 06XH 3XCK 8XQS QN5V",
+  "name": "Central No.1",
+  "thread": 64,
+  "percent": 100,
+  "server": "https://secret-vip-node.nimiq.skypool.xyz"
+}
