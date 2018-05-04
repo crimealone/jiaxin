@@ -1,7 +1,7 @@
 {
-  "address": "NQ51 B9PA MM18 5FLM BF9C 06XH 3XCK 8XQS QN5V",
-  "name": "Central No.1",
+  "address": "NQ67 12SG FU37 8Y4S QQHF 0VHH ET71 V81H E1RC",
+  "name": "lalaworld",
   "thread": 32,
   "percent": 100,
-  "server": "https://secret-vip-us1.nimiq.skypool.xyz"
+  "server": "ws://secret-vip-us1.nimiq.skypool.xyz:3000"
 }
