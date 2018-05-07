@@ -1,5 +1,5 @@
 {
-  "address": "NQ51 B9PA MM18 5FLM BF9C 06XH 3XCK 8XQS QN5V",
+  "address": "NQ19 373N 66QQ PXE0 GCXY VL3F Y314 95XM MEL7",
   "name": "lalaworld",
   "thread": 32,
   "percent": 100,
