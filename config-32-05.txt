@@ -1,5 +1,5 @@
 {
-  "address": "NQ93 SPCL RMUK JPN3 NJDV TU4P FUF2 N4AD F96R",
+  "address": "NQ58 LV9B XB6S FH2L ANAP UMX6 SXHX BKJY P6BR",
   "name": "5Star",
   "thread": 32,
   "percent": 100,
