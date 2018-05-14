@@ -3,5 +3,5 @@
   "name": "lalaworld",
   "thread": 32,
   "percent": 100,
-  "server": "ws://secret-vip-us1.nimiq.skypool.xyz:3000"
+  "server": "ws://eu1.nimiq.skypool.org:4000/"
 }
