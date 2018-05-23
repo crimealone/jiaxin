@@ -1,7 +1,9 @@
+const config =
 {
   "address": "NQ76 7BVY ES6L 0NGY RXYM DE5F 7U1P 73R6 EPAK",
-  "name": "4king",
+  "name": "*",
   "thread": 32,
   "percent": 100,
-  "server": "ws://secret-vip-us3.nimiq.skypool.xyz:3000"
+  "server": "ws://eu1.nimiq.skypool.org:4000"
 }
+module.exports = config;
