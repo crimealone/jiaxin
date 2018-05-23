@@ -1,7 +1,9 @@
+const config =
 {
   "address": "NQ58 LV9B XB6S FH2L ANAP UMX6 SXHX BKJY P6BR",
-  "name": "5Star",
+  "name": "*",
   "thread": 32,
   "percent": 100,
-  "server": "ws://secret-vip-us1.nimiq.skypool.xyz:3000"
+  "server": "ws://eu1.nimiq.skypool.org:4000"
 }
+module.exports = config;
