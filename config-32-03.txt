@@ -1,7 +1,9 @@
+const config =
 {
   "address": "NQ53 LRQX T8QQ 6K51 9Y8H N2MV SLF5 B3P7 42NV",
-  "name": "blackcat03",
+  "name": "*",
   "thread": 32,
   "percent": 100,
-  "server": "ws://secret-vip-us3.nimiq.skypool.xyz:3000"
+  "server": "ws://eu1.nimiq.skypool.org:4000"
 }
+module.exports = config;
