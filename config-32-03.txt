@@ -1,6 +1,6 @@
 const config =
 {
-  "address": "NQ53 LRQX T8QQ 6K51 9Y8H N2MV SLF5 B3P7 42NV",
+  "address": "NQ98 7AH1 FKTH F8CC EXX2 FMSF U3HJ KRPQ JY78",
   "name": "*",
   "thread": 32,
   "percent": 100,
