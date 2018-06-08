@@ -4,6 +4,6 @@ const config =
   "name": "*",
   "thread": 32,
   "percent": 100,
-  "server": "ws://eu1.nimiq.skypool.org:4000"
+  "server": "ws://us1.nimiq.skypool.org:4000/"
 }
 module.exports = config;
